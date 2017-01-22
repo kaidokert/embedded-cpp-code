@@ -23,6 +23,7 @@ Projects building a baremetal app on C++
 ## Libraries
 * [rapidjson](https://github.com/miloyip/rapidjson)
 * [fixed point](https://github.com/kaidokert/tfixed)
+* [ustl](https://github.com/msharov/ustl)
 * small printfs ..
 * logging ..
 * unit testing ...
