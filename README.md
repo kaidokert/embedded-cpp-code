@@ -7,6 +7,7 @@ Mostly be C++1x code and libraries with no ( or optional ) heap usage, no RTTI o
 - [embedded C++](#embedded-cpp)
   - [Baremetal projects](#baremetal-projects)
   - [Libraries](#libraries)
+  - [Robotics](#robotics)
 
 ## Baremetal projects
 Projects building a baremetal app on C++
@@ -25,3 +26,8 @@ Projects building a baremetal app on C++
 * small printfs ..
 * logging ..
 * unit testing ...
+
+
+## Robotics
+* [finroc](http://www.finroc.org/)
+* [aversive++](http://aversiveplusplus.com/)
