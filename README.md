@@ -21,11 +21,13 @@ Projects building a baremetal app on C++
 * [cppmeta](https://github.com/mholling/cppmeta)
 * [msp430-template-library](https://github.com/ekoeppen/msp430-template-library)
 * [kvasir](https://github.com/kvasir-io/Kvasir)
+* [libstm32pp](https://github.com/JorgeAparicio/libstm32pp)
 
 ## Libraries
 * [rapidjson](https://github.com/miloyip/rapidjson)
 * [fixed point](https://github.com/kaidokert/tfixed)
 * [ustl](https://github.com/msharov/ustl)
+* [PeripheralTemplateLibrary](https://github.com/pfalcon/PeripheralTemplateLibrary)
 * small printfs ..
 * logging ..
 * unit testing ...
