@@ -4,6 +4,8 @@ A short list of interesting embedded C++ projects
 
 Mostly be C++1x code and libraries with no ( or optional ) heap usage, no RTTI or exceptions dependencies, targeted at running on modern 32-bit MCUs
 
+Pull requests welcome !
+
 - [embedded C++](#embedded-cpp)
   - [Baremetal projects](#baremetal-projects)
   - [Libraries](#libraries)
