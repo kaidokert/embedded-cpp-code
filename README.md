@@ -16,6 +16,7 @@ Projects building a baremetal app on C++
 * [distortos](https://github.com/DISTORTEC/distortos)
 * [real-time-cpp](https://github.com/ckormanyos/real-time-cpp)
 * [cppmeta](https://github.com/mholling/cppmeta)
+* [msp430-template-library](https://github.com/ekoeppen/msp430-template-library)
 
 ## Libraries
 * [rapidjson](https://github.com/miloyip/rapidjson)
