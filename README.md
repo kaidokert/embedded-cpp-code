@@ -2,7 +2,7 @@
 
 A short list of interesting embedded C++ projects
 
-Mostly be C++1x code and libraries with no ( or optional ) heap usage, no RTTI or exceptions dependencies, targeted at running on modern 32-bit MCUs
+Mostly C++1x code and libraries with no ( or optional ) heap usage, no RTTI or exceptions dependencies, targeted at running on modern 32-bit MCUs
 
 Pull requests welcome !
 
@@ -22,6 +22,7 @@ Projects building a baremetal app on C++
 * [msp430-template-library](https://github.com/ekoeppen/msp430-template-library)
 * [kvasir](https://github.com/kvasir-io/Kvasir)
 * [libstm32pp](https://github.com/JorgeAparicio/libstm32pp)
+* [CMSIS++](http://micro-os-plus.github.io/cmsis-plus/rtos/)
 
 ## Libraries
 * [rapidjson](https://github.com/miloyip/rapidjson)
