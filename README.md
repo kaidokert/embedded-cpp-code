@@ -24,6 +24,7 @@ Projects building a baremetal app on C++
 * [libstm32pp](https://github.com/JorgeAparicio/libstm32pp)
 * [CMSIS++](http://micro-os-plus.github.io/cmsis-plus/rtos/)
 * [Quantum Platform in C++](https://github.com/QuantumLeaps/qpcpp.git)
+* [embxx - Embedded C++ library](https://github.com/arobenko/embxx)
 
 ## Libraries
 * [rapidjson](https://github.com/miloyip/rapidjson)
