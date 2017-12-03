@@ -25,6 +25,7 @@ Projects building a baremetal app on C++
 * [CMSIS++](http://micro-os-plus.github.io/cmsis-plus/rtos/)
 * [Quantum Platform in C++](https://github.com/QuantumLeaps/qpcpp.git)
 * [embxx - Embedded C++ library](https://github.com/arobenko/embxx)
+* [libense - embedded C++ runtime](https://github.com/myeisha/libense)
 
 ## Libraries
 * [rapidjson](https://github.com/miloyip/rapidjson)
