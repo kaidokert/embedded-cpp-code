@@ -27,6 +27,7 @@ Projects building a baremetal app on C++
 * [embxx - Embedded C++ library](https://github.com/arobenko/embxx)
 * [libense - embedded C++ runtime](https://github.com/myeisha/libense)
 * [hwcpp by Wouter van Ooijen - WIP](https://github.com/wovo/hwcpp)
+* [xpcc framework](https://github.com/roboterclubaachen/xpcc)
 
 ## Libraries
 * [rapidjson](https://github.com/miloyip/rapidjson)
