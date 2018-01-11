@@ -41,4 +41,4 @@ Projects building a baremetal app on C++
 
 ## Robotics
 * [finroc](http://www.finroc.org/) Github mirror: https://github.com/finrocmirror
-* [aversive++](http://aversiveplusplus.com/)
+* [aversive++](https://github.com/AversivePlusPlus/AversivePlusPlus)
