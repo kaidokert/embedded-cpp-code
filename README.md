@@ -35,7 +35,7 @@ Projects building a baremetal app on C++
 * [fixed point](https://github.com/kaidokert/tfixed)
 * [ustl](https://github.com/msharov/ustl)
 * [PeripheralTemplateLibrary](https://github.com/pfalcon/PeripheralTemplateLibrary)
-* [OpenMPTL](https://digint.ch/openmptl/]
+* [OpenMPTL](https://digint.ch/openmptl/)
 * small printfs ..
 * logging ..
 * unit testing ...
