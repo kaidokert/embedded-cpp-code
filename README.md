@@ -29,6 +29,7 @@ Projects building a baremetal app on C++
 * [hwcpp by Wouter van Ooijen - WIP](https://github.com/wovo/hwcpp)
 * [xpcc framework](https://github.com/roboterclubaachen/xpcc)
 * [etl - embedded template library](https://github.com/ETLCPP/etl) 
+* [modm](https://github.com/modm-io/modm)
 
 ## Libraries
 * [rapidjson](https://github.com/miloyip/rapidjson)
